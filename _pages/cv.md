@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* Spring 2024: Algorithm Expert at Ant Group
   * GitHub University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
